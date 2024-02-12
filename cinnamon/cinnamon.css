@@ -122,7 +122,7 @@
 #menu-search-entry, #notification StEntry, .run-dialog-entry {
   padding: 5px;
   border-radius: 5px;
-  color: #eeeeee;
+  color: #e2e2e2;
   border: 1px solid rgba(224, 224, 224, 0.22);
   selection-background-color: #2278bb;
   selected-color: #fefefe;
@@ -297,7 +297,7 @@ StScrollView StScrollBar {
 
 #Tooltip {
   padding: 5px 8px;
-  color: #eeeeee;
+  color: #e2e2e2;
   text-align: center;
   border-radius: 5px; }
 
@@ -446,7 +446,7 @@ StScrollView StScrollBar {
 
 .menu-search-entry-icon {
   icon-size: 1em;
-  color: #eeeeee; }
+  color: #e2e2e2; }
 
 .menu-top-box {
   spacing: 10px; }

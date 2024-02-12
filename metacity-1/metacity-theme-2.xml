@@ -14,11 +14,11 @@
 <constant name="C_border_focused" value="#1484f5" />
 <constant name="C_border_unfocused" value="#4d8ea4" />
 <constant name="C_title_focused" value="#e0e0e0" />
-<constant name="C_title_unfocused" value="blend/#eeeeee/#1c1d1e/0.4" />
+<constant name="C_title_unfocused" value="blend/#e2e2e2/#1c1d1e/0.4" />
 <constant name="C_icons_focused" value="#e0e0e0" />
 <constant name="C_icons_focused_prelight" value="gtk:bg[SELECTED])" />
 <constant name="C_icons_focused_pressed" value="shade/gtk:bg[SELECTED]/0.8" />
-<constant name="C_icons_unfocused" value="blend/#eeeeee/#1c1d1e/0.4" />
+<constant name="C_icons_unfocused" value="blend/#e2e2e2/#1c1d1e/0.4" />
 <constant name="C_icons_unfocused_prelight" value="gtk:bg[SELECTED])" />
 <constant name="C_icons_unfocused_pressed" value="shade/gtk:bg[SELECTED]/0.8" />
 
