@@ -9,7 +9,7 @@
 </info>
 
 <!-- ::: CONSTANTS ::: -->
-<constant name="C_titlebar_focused" value="#212121" />
+<constant name="C_titlebar_focused" value="#232323" />
 <constant name="C_titlebar_unfocused" value="#1c1d1e" />
 <constant name="C_border_focused" value="#1484f5" />
 <constant name="C_border_unfocused" value="#4d8ea4" />
